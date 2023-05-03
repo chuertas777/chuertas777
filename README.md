@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuertas777&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=github-readme-stats)](https://github.com/chuertas777/github-readme-stats)
+
 
