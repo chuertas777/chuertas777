@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuertas777&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/chuertas777/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact&show_icons=true&theme=dark" />
 </a>
 
 
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact)](https://github.com/chuertas777/github-readme-stats)
 -->
-[![Camilo Huertas's stats](https://github-readme-stats.vercel.app/api/wakatime?username=chuertas777)](https://github.com/chuertas777/github-readme-stats)
 
 
 
