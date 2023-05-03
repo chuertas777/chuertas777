@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/chuertas777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuertas777&show_icons=true&theme=dark" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=chuertas777&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
 
