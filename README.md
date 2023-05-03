@@ -25,9 +25,15 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=mgp25-instagram-php)](https://github.com/chuertas777/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=IPTV)](https://github.com/chuertas777/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact)](https://github.com/chuertas777/github-readme-stats)
 
 [![Camilo Huertas's stats](https://github-readme-stats.vercel.app/api/wakatime?username=chuertas777)](https://github.com/chuertas777/github-readme-stats)
+
+<a href="https://github.com/chuertas777/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuertas777&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/chuertas777/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuertas777&show_icons=true&theme=dark" />
+</a>
 
 
