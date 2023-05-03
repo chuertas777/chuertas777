@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=Full-Stack)](https://github.com/chuertas777/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=nextjs-blog)](https://github.com/chuertas777/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=nginx-rtmp-monitoreo)](https://github.com/chuertas777/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=inventario)](https://github.com/chuertas777/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=instagram)](https://github.com/chuertas777/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=mgp25-instagram-php)](https://github.com/chuertas777/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=IPTV)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=Full-Stack&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=nextjs-blog&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=nginx-rtmp-monitoreo&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=inventario&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=instagram&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=mgp25-instagram-php&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuertas777&repo=IPTV&show_icons=true&theme=dark)](https://github.com/chuertas777/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuertas777&layout=compact)](https://github.com/chuertas777/github-readme-stats)
